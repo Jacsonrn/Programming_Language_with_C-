@@ -8,6 +8,8 @@ cin >> le;
 if(le == 'a' || le == 'e' || le == 'i' || le == 'o' || le == 'u' ){
     cout << "Voce digitou uma vogal minuscula."<< endl;
     
+}else{
+    cout << "Voce nao digitou uma vogal minuscula." << endl;
 }
 return 0;
 }

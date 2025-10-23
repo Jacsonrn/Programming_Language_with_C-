@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 int numero;
+string b = "Digitou zero";
 cout<<"Digite o numero de vezes:"<<endl;
 cin>>numero;
 
@@ -11,8 +12,8 @@ cin>>numero;
    cout<<"Digite um numero"<<endl;
    cin>>numero;
 
-    }
-
+    } 
+cout<<b<<endl;
 
     return 0;
 }

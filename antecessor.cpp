@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
  int numero1 = 0;
+
  cout << "Digite um numero inteiro:" << endl;
  cin >> numero1;
 
